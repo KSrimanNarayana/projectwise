@@ -1,0 +1,2 @@
+give user name
+give passwd
